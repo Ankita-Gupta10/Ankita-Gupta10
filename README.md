@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankita-Gupta10
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning data visualization
+- 🌱 I’m currently learning PowerBI
 
 - 📫 How to reach me ...
 
